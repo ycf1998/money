@@ -1,0 +1,1 @@
+function e(e,t={}){return e?new Date(e).toLocaleDateString(`zh-CN`,{year:`numeric`,month:`2-digit`,day:`2-digit`,...t}):`-`}function t(t){return e(t,{month:`long`})}function n(t){if(!t)return`-`;let n=new Date(t),r=new Date-n;return r<6e4?`刚刚`:r<36e5?`${Math.floor(r/6e4)}分钟前`:r<864e5?`${Math.floor(r/36e5)}小时前`:r<6048e5?`${Math.floor(r/864e5)}天前`:e(t)}export{t as n,n as r,e as t};

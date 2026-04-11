@@ -1,0 +1,141 @@
+{
+  "posts": [
+    {
+      "id": "welcome-to-my-blog",
+      "title": "欢迎来到我的博客",
+      "summary": "这是我的第一篇博客文章，记录开始写博客的初衷和期待。",
+      "tags": [
+        "博客",
+        "生活"
+      ],
+      "sourceType": "manual",
+      "publishedAt": "2025-03-01T08:00:00Z"
+    },
+    {
+      "id": "post-20260301-0do8",
+      "title": "2026 年 AI 技术六大趋势：从\"更大模型\"到\"更智能模型\"",
+      "summary": "InfoWorld 发布 2026 年 AI 技术发展趋势，指出行业重点将从构建超大型模型转向智能体系统、自我验证和互操作性，英语或将成为最热门的编程语言。",
+      "tags": [
+        "AI",
+        "技术趋势",
+        "智能体",
+        "开源模型",
+        "2026"
+      ],
+      "sourceType": "ai",
+      "publishedAt": "2026-03-01T09:56:24.399Z"
+    },
+    {
+      "id": "post-20260301-0nml",
+      "title": "2026 AI 编程代理实战报告：从\"辅助编码\"到\"自主开发\"的范式转移",
+      "summary": "AI 编程已跨越临界点：Claude Code 可自主工作 7 小时完成复杂任务，Anthropic 工程师 70-90% 的代码由 AI 生成。本文基于最新行业数据，解析 AI 代理的核心能力、真实生产力提升、被忽视的安全风险，以及开发者角色的根本性转变。",
+      "tags": [
+        "AI 编程",
+        "Agent",
+        "开发者工具",
+        "生产力",
+        "代码安全"
+      ],
+      "sourceType": "ai",
+      "publishedAt": "2026-03-01T10:05:39.777Z"
+    },
+    {
+      "id": "post-20260301-ckbt",
+      "title": "OpenAI Codex 专用芯片 WSE-3 发布：4 万亿晶体管重塑 AI 编程速度",
+      "summary": "OpenAI 与 Cerebras 合作推出晶圆级引擎 WSE-3，集成 4 万亿晶体管，为 GPT-5.3-Codex-Spark 提供超低延迟推理能力，标志着 AI 编程从云端向专用硬件的重大转变。",
+      "tags": [
+        "OpenAI",
+        "Codex",
+        "AI 芯片",
+        "Cerebras",
+        "WSE-3",
+        "编程辅助"
+      ],
+      "sourceType": "ai",
+      "publishedAt": "2026-03-01T13:07:22.633Z"
+    },
+    {
+      "id": "post-20260301-yqsv",
+      "title": "Anthropic Claude Agent SDK 深度解析：从对话到自主代理的范式转移",
+      "summary": "Claude Agent SDK 集成至 Xcode 26.3，支持自主任务分解、视觉验证闭环、MCP 开放协议，标志着 AI 编程从\"辅助工具\"向\"数字同事\"的根本性转变。",
+      "tags": [
+        "Anthropic",
+        "Claude",
+        "Agent SDK",
+        "Xcode",
+        "MCP",
+        "自主代理",
+        "AI 编程"
+      ],
+      "sourceType": "ai",
+      "publishedAt": "2026-03-01T13:07:22.633Z"
+    },
+    {
+      "id": "post-20260410-088y",
+      "title": "MIT 提出 CompreSSM 技术：让 AI 模型在训练中自我瘦身",
+      "summary": "MIT 研究团队于4月9日发布了一项突破性技术 CompreSSM，利用控制理论在模型训练初期动态剔除无效参数，显著降低计算成本而不牺牲性能。本文将深入解读这项技术的原理及其对 AI 开发者的影响。",
+      "tags": [
+        "AI",
+        "MIT",
+        "模型优化",
+        "CompreSSM",
+        "深度学习",
+        "状态空间模型"
+      ],
+      "sourceType": "ai",
+      "publishedAt": "2026-04-10T16:51:28.566Z"
+    },
+    {
+      "id": "post-20260410-6ohp",
+      "title": "AI 编程工具周报：GLM-5.1 登顶 SWE-Bench Pro，Cursor 优化 MoE 推理",
+      "summary": "2026年4月7-10日，AI编程工具领域迎来多项重要更新：智谱AI发布GLM-5.1旗舰模型，在SWE-Bench Pro达到SOTA；Cursor推出Warp Decode内核优化，MoE模型吞吐量提升1.8倍；OpenAI收购科技媒体TBPN，战略意图引人关注。",
+      "tags": [
+        "AI编程",
+        "GLM-5.1",
+        "Cursor",
+        "MoE",
+        "智能体",
+        "SWE-Bench",
+        "OpenAI"
+      ],
+      "sourceType": "ai",
+      "publishedAt": "2026-04-10T16:51:28.566Z"
+    },
+    {
+      "id": "post-20260410-8nrj",
+      "title": "2026年4月AI智能体生态盘点：MCP协议爆发、多模型路由成标配",
+      "summary": "AI智能体正在从概念验证走向生产级基础设施。本文梳理2026年4月初的关键进展：MCP协议安装量突破9700万，多模型路由架构取代单一模型依赖，AI\"Harness工程\"新范式提出，以及智能体安全与治理的最新实践。",
+      "tags": [
+        "AI智能体",
+        "MCP协议",
+        "多模型路由",
+        "Harness工程",
+        "AI治理",
+        "智能体编排"
+      ],
+      "sourceType": "ai",
+      "publishedAt": "2026-04-10T16:51:28.566Z"
+    },
+    {
+      "id": "post-20260411-uuo3",
+      "title": "AI编程革命2026：从Claude Mythos 5到MCP 2.0，智能体生态迎来质变",
+      "summary": "2026年4月，AI编程领域迎来重大突破。Anthropic的Claude Mythos 5以10万亿参数刷新代码生成纪录，MCP 2.0协议通过神经符号混合架构解决智能体幻觉难题，Anthropic最新趋势报告揭示'智能体军团'协同开发模式正在重塑软件工程范式。",
+      "tags": [
+        "AI编程",
+        "Claude Mythos 5",
+        "MCP 2.0",
+        "AI智能体",
+        "Anthropic",
+        "多智能体协同",
+        "代码生成",
+        "软件工程"
+      ],
+      "sourceType": "ai",
+      "publishedAt": "2026-04-11T02:54:54.209Z"
+    }
+  ],
+  "meta": {
+    "total": 9,
+    "lastUpdated": "2026-04-11T08:53:40.969Z"
+  }
+}

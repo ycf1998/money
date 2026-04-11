@@ -1,0 +1,12 @@
+{
+  "sources": [
+    {
+      "id": "ai-tech-news",
+      "name": "AI 技术资讯",
+      "prompt": "AI 编程领域的最新动态，包括新模型发布、新技术概念（如 MCP、Agent 等）、AI 公司官方博客（如 Anthropic、OpenAI、Google DeepMind 等）的技术文章。",
+      "enabled": true,
+      "createdAt": "2025-03-01T08:00:00Z",
+      "updatedAt": "2026-04-11T02:57:22.703Z"
+    }
+  ]
+}
